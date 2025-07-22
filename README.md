@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -72,3 +73,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 =======
 # recipe-app
 >>>>>>> 20fa46fa10a2a42982706acde7969c17b789bcf3
+=======
+# Recipe App 🍽️
+
+A simple React recipe book with categorized meals and image previews.
+
+Built using:
+- React
+- React Router
+- Custom CSS
+>>>>>>> e6e58dc6c887875342803457e36f2f6268b88756
